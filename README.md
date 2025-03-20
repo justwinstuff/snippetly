@@ -17,7 +17,7 @@ First off, thanks for contributing! **Start by forking this repository.**
 Snippets are stored in Markdown files inside a directory for their respective programming language.  
 
 - Navigate to the relevant language directory (or create one if it doesn’t exist).  
-- Add a new Markdown file following the format outlined [here](https://github.com/justwinstuff/snippetly/format.md).  
+- Add a new Markdown file following the format outlined [here](https://github.com/justwinstuff/snippetly/blob/main/format.md).  
 - Give your snippet a **descriptive title** and a **clear, concise description** to help others understand its purpose.  
 
 ### 2. Make a Pull Request  
