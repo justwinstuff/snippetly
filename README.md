@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Introducing <a href="https://google.com">Snippetly</a></h1>
+  <h1>Introducing <a href="https://snippetly.vercel.app">Snippetly</a></h1>
   <h3>Never write the same code twice.</h3>
   <p>Snippetly fetches code snippets from this repository and displays them in a clean, searchable interface. It helps developers share commonly used code patterns.</p>
 </div>
