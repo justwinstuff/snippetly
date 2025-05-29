@@ -34,7 +34,7 @@ Press `CTRL + SHIFT + I` to open DevTools, navigate to the **Application** tab, 
 **Firefox-based browsers**  
 Press `CTRL + SHIFT + I` to open DevTools, go to the **Storage** tab, select **Local Storage**, and remove the relevant keys.
 
-**Other browsers**
+**Other browsers** <br>
 idk just google it or something
 
 ### Happy coding!
