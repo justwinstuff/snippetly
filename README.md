@@ -6,7 +6,7 @@
 
 ## Why Snippetly?
 
-Every developer has written the same piece of sh\*t multiple times. Snippetly exists to solve that problem by providing an organized and searchable collection of useful code snippets. Whether you're looking for common patterns, quick fixes, or best practices, Snippetly makes code reuse effortless.
+Every developer has written the same piece of sh\*t multiple times. Snippetly exists to solve that problem by providing an organized and searchable collection of useful (not that true) code snippets.
 
 ## How to Add a Snippet
 
@@ -17,7 +17,7 @@ First off, thanks for contributing! **Start by forking this repository.**
 Snippets are stored in Markdown files inside a directory for their respective programming language.
 
 - Navigate to the relevant language directory (or create one if it doesn’t exist).
-- Add a new Markdown file following the format outlined [here](https://github.com/justwinstuff/snippetly/blob/main/format.md).
+- Add a new Markdown file following the format outlined [here](https://raw.githubusercontent.com/justwinstuff/snippetly/refs/heads/main/format.md).
 - Give your snippet a **descriptive title** and a **clear, concise description** to help others understand its purpose.
 
 ### 2. Make a Pull Request
@@ -33,6 +33,9 @@ Press `CTRL + SHIFT + I` to open DevTools, navigate to the **Application** tab, 
 
 **Firefox-based browsers**  
 Press `CTRL + SHIFT + I` to open DevTools, go to the **Storage** tab, select **Local Storage**, and remove the relevant keys.
+
+**Other browsers**
+idk just google it or something
 
 ### Happy coding!
 
